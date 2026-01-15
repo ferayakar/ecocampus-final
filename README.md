@@ -27,10 +27,15 @@ EcoCampus, döngüsel ekonomi prensiplerine uygun olarak geliştirilmiş **3-kat
 ### Temel Özellikler
 
 ✅ Kullanıcı kayıt ve giriş sistemi (JWT tabanlı)
+
 ✅ Ürün ekleme, düzenleme ve silme
+
 ✅ Kategori bazlı ürün listeleme
+
 ✅ Bağış sistemi (0 TL fiyatlı ürünler)
+
 ✅ Web ve mobil platformlar arası gerçek zamanlı senkronizasyon
+
 ✅ Güvenli kimlik doğrulama ve yetkilendirme
 
 ---
